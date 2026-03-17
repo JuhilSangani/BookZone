@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1C5mcDcdeRsKNXZKu-qa2Lbk-nEVwUzzl/view?usp=shari
 
 Format of Git : 
 
-Commit format : username-commit-message    (for example:  Ronak-commit-intial_commit)
+Commit format : username-commit-message    (for example:  Ronak-commit-intial_commit)  
 PR format:  username-PR-message    (for example:  Ronak-PR-intial_commit)
 
 
