@@ -22,7 +22,6 @@ app.use("/api/V1/user", utillsRouter);
 if (process.env.NODE_ENV !== "production") {
   app.use(morgan("dev"));
 }
-
 app.get("/", (req, res) => {
   res.status(200).send("Hello from Backend");
 });
